@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "minigame-manager",
+  "version": "${version}",
+  "name": "minigame-manager",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/thematicarmor/minigame-manager"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/minigame-manager/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "server": [
+      "bond.thematic.minigamemanager.MinigameManagerMod"
+    ]
+  },
+  "mixins": [
+    "minigame-manager.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

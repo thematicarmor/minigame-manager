@@ -1,0 +1,55 @@
+{
+  "kit_name": "witch",
+  "icon": {
+    "id": "brewing_stand",
+    "Count": 1
+  },
+  "armor": [
+    {
+      "id": "air",
+      "Count": 1
+    },
+    {
+      "id": "air",
+      "Count": 1
+    },
+    {
+      "id": "air",
+      "Count": 1
+    },
+    {
+      "id": "air",
+      "Count": 1
+    }
+  ],
+  "items": [
+    {
+      "id": "lingering_potion",
+      "Count": 1,
+      "tag": {
+        "Potion": "strong_harming"
+      }
+    },
+    {
+      "id": "lingering_potion",
+      "Count": 1,
+      "tag": {
+        "Potion": "strong_harming"
+      }
+    },
+    {
+      "id": "lingering_potion",
+      "Count": 1,
+      "tag": {
+        "Potion": "strong_harming"
+      }
+    },
+    {
+      "id": "potion",
+      "Count": 1,
+      "tag": {
+        "Potion": "strong_healing"
+      }
+    }
+  ]
+}
