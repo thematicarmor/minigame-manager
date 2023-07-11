@@ -33,8 +33,10 @@ import xyz.nucleoid.plasmid.storage.ServerStorage;
 
 public class MinigameManagerMod implements DedicatedServerModInitializer {
 
+    public static final String ID = "minigamemanager";
+    public static final Logger LOGGER = LogManager.getLogger(ID);
+
     public static final PlayerKitStorage KIT_STORAGE = ServerStorage.createStorage(new Identifier("skywars", "kits"), new PlayerKitStorage());
-    public static final Logger LOGGER = LogManager.getLogger("minigamemanager");
 
     @Override
     public void onInitializeServer() {
