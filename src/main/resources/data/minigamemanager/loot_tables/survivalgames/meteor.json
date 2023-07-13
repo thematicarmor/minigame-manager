@@ -1,0 +1,116 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": {
+        "min": 6,
+        "max": 7
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "minecraft:stone_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 12,
+          "name": "minecraft:iron_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 8,
+          "name": "minecraft:shield"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "minecraft:stone_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 8,
+          "name": "minecraft:iron_ingot",
+          "count": 4
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "minecraft:bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:diamond"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:diamond",
+          "count": 3
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:golden_apple"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:tnt",
+          "count": 4
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:flint_and_steel"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:fire_charge"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:chainmail_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:chainmail_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:chainmail_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:chainmail_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:iron_helmet"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:iron_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:iron_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "minecraft:iron_boots"
+        }
+      ]
+    }
+  ]
+}
